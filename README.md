@@ -1,15 +1,5 @@
 # demo-repo
 ## Descripción
-agshsjhsgdaahd
-
-AJGHLKAJSGSAFJKLSFKJSH
-
-## Fechas
-aljkgfljksdhldjkadh
-### Fecha inicial
-hafliuahdlkuhldfjk
-### Fecha final
-ahlgjdfglajdgllj
-
+Este repositorio es para una prueba inicial.
 ## Autor
 [Cristian](https://bit.institute)
